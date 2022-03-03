@@ -2,4 +2,10 @@
     <string name="app_name">ProgramminHero</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quiz">Quiz</string>
+    <string name="high_score">High Score</string>
+    <string name="start">Start</string>
+    <string name="question">Question : </string>
+    <string name="score">Score : </string>
+
 </resources>
